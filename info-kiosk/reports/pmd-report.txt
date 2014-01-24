@@ -1,0 +1,449 @@
+src/AdminGui.java:9:	Avoid unused imports such as 'javax.swing.SwingConstants'
+src/AdminGui.java:19:	All classes and interfaces must belong to a named package
+src/AdminGui.java:19:	The class 'AdminGui' has a Cyclomatic Complexity of 15 (Highest = 14).
+src/AdminGui.java:20:	Avoid unused private fields such as 'btnNewButton'.
+src/AdminGui.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:21:	Perhaps 'contentPane' could be replaced by a local variable.
+src/AdminGui.java:21:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/AdminGui.java:22:	Avoid using redundant field initializer for 'result'
+src/AdminGui.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:22:	Use explicit scoping instead of the default package private level
+src/AdminGui.java:23:	Avoid variables with short names like id
+src/AdminGui.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:23:	Use explicit scoping instead of the default package private level
+src/AdminGui.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:24:	Use explicit scoping instead of the default package private level
+src/AdminGui.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:25:	Use explicit scoping instead of the default package private level
+src/AdminGui.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AdminGui.java:26:	Use explicit scoping instead of the default package private level
+src/AdminGui.java:31:	It is a good practice to call super() in a constructor
+src/AdminGui.java:31:	The constructor 'AdminGui' has a Cyclomatic Complexity of 14.
+src/AdminGui.java:40:	Comment is too large: Line too long
+src/AdminGui.java:41:	Local variable 'btnNewButton' could be declared final
+src/AdminGui.java:43:	Avoid variables with short names like e
+src/AdminGui.java:43:	Parameter 'e' is not assigned and could be declared final
+src/AdminGui.java:46:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:47:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:48:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:49:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:49:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:50:	Local variable 'label' could be declared final
+src/AdminGui.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:52:	Avoid variables with short names like jt
+src/AdminGui.java:53:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:55:	Local variable 'label2' could be declared final
+src/AdminGui.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:58:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:60:	Local variable 'label3' could be declared final
+src/AdminGui.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:65:	Local variable 'label4' could be declared final
+src/AdminGui.java:66:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:68:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:70:	Local variable 'label5' could be declared final
+src/AdminGui.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:73:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:75:	Local variable 'button1' could be declared final
+src/AdminGui.java:76:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:78:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:79:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:79:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:80:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:80:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:81:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:81:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:82:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:82:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:83:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:83:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:84:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:84:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:85:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:86:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:86:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:87:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:87:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:88:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:91:	Avoid variables with short names like e
+src/AdminGui.java:91:	Parameter 'e' is not assigned and could be declared final
+src/AdminGui.java:98:	System.out.print is used
+src/AdminGui.java:100:	Local variable 'admin' could be declared final
+src/AdminGui.java:103:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AdminGui.java:105:	Avoid printStackTrace(); use a logger call instead.
+src/AdminGui.java:105:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:114:	Comment is too large: Line too long
+src/AdminGui.java:118:	Comment is too large: Line too long
+src/AdminGui.java:119:	Local variable 'btnNewButton1' could be declared final
+src/AdminGui.java:121:	Avoid really long methods.
+src/AdminGui.java:121:	Avoid variables with short names like e
+src/AdminGui.java:121:	Parameter 'e' is not assigned and could be declared final
+src/AdminGui.java:127:	Local variable 'id1' could be declared final
+src/AdminGui.java:132:	Local variable 'aithousa1' could be declared final
+src/AdminGui.java:134:	Local variable 'admin' could be declared final
+src/AdminGui.java:138:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AdminGui.java:140:	Avoid printStackTrace(); use a logger call instead.
+src/AdminGui.java:140:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:141:	An empty statement (semicolon) not part of a loop
+src/AdminGui.java:141:	An empty statement (semicolon) not part of a loop
+src/AdminGui.java:146:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:147:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:148:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:149:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:149:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:154:	Local variable 'label' could be declared final
+src/AdminGui.java:155:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:156:	Avoid variables with short names like jt
+src/AdminGui.java:157:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:159:	Local variable 'label2' could be declared final
+src/AdminGui.java:160:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:162:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:164:	Local variable 'label3' could be declared final
+src/AdminGui.java:165:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:167:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:169:	Local variable 'label4' could be declared final
+src/AdminGui.java:170:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:172:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:174:	Local variable 'label5' could be declared final
+src/AdminGui.java:175:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:177:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:180:	Local variable 'button1' could be declared final
+src/AdminGui.java:181:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:183:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:183:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:184:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:184:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:185:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:185:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:186:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:186:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:187:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:187:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:188:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:188:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:189:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:189:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:190:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:190:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:191:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:191:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:192:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:192:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:193:	Potential violation of Law of Demeter (method chain calls)
+src/AdminGui.java:193:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:198:	Parameter 'e' is not assigned and could be declared final
+src/AdminGui.java:204:	System.out.print is used
+src/AdminGui.java:205:	Local variable 'admin' could be declared final
+src/AdminGui.java:208:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AdminGui.java:210:	Avoid printStackTrace(); use a logger call instead.
+src/AdminGui.java:210:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:214:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AdminGui.java:216:	Avoid printStackTrace(); use a logger call instead.
+src/AdminGui.java:216:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:225:	Avoid printStackTrace(); use a logger call instead.
+src/AdminGui.java:225:	Potential violation of Law of Demeter (object not created locally)
+src/AdminGui.java:230:	Comment is too large: Line too long
+src/AdminGui.java:234:	Comment is too large: Line too long
+src/AdminGui.java:235:	Local variable 'btnNewButton2' could be declared final
+src/AdminGui.java:237:	Avoid variables with short names like e
+src/AdminGui.java:237:	Parameter 'e' is not assigned and could be declared final
+src/AdminGui.java:238:	Local variable 'temp' could be declared final
+src/AdminGui.java:242:	Local variable 'id1' could be declared final
+src/AdminGui.java:243:	Local variable 'admin' could be declared final
+src/AdminGui.java:246:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AdminGui.java:248:	Avoid printStackTrace(); use a logger call instead.
+src/AdminGui.java:253:	Comment is too large: Line too long
+src/AdminGui.java:256:	Comment is too large: Line too long
+src/AdminGui.java:257:	Local variable 'btnNewButton3' could be declared final
+src/AdminGui.java:259:	Avoid variables with short names like e
+src/AdminGui.java:259:	Parameter 'e' is not assigned and could be declared final
+src/AdminGui.java:260:	Local variable 'admin' could be declared final
+src/AdminGui.java:266:	Comment is too large: Line too long
+src/Administrator.java:6:	All classes and interfaces must belong to a named package
+src/Administrator.java:7:	Document empty method
+src/Administrator.java:11:	System.exit() should not be used in J2EE/JEE apps
+src/Administrator.java:13:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Administrator.java:13:	Avoid variables with short names like id
+src/Administrator.java:13:	Parameter 'aithousa' is not assigned and could be declared final
+src/Administrator.java:13:	Parameter 'id' is not assigned and could be declared final
+src/Administrator.java:15:	Local variable 'sys' could be declared final
+src/Administrator.java:16:	Potential violation of Law of Demeter (object not created locally)
+src/Administrator.java:19:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Administrator.java:19:	Avoid variables with short names like id
+src/Administrator.java:19:	Parameter 'id' is not assigned and could be declared final
+src/Administrator.java:20:	Found 'DD'-anomaly for variable 'bool' (lines '20'-'22').
+src/Administrator.java:21:	Local variable 'sys' could be declared final
+src/Administrator.java:22:	Potential violation of Law of Demeter (object not created locally)
+src/Administrator.java:25:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Administrator.java:25:	Avoid variables with short names like id
+src/Administrator.java:25:	Parameter 'aithousa' is not assigned and could be declared final
+src/Administrator.java:25:	Parameter 'id' is not assigned and could be declared final
+src/Administrator.java:25:	Parameter 'image' is not assigned and could be declared final
+src/Administrator.java:25:	Parameter 'onoma' is not assigned and could be declared final
+src/Administrator.java:25:	Parameter 'plirofories' is not assigned and could be declared final
+src/Administrator.java:26:	Found 'DD'-anomaly for variable 'bool' (lines '26'-'28').
+src/Administrator.java:27:	Local variable 'sys' could be declared final
+src/Administrator.java:28:	Potential violation of Law of Demeter (object not created locally)
+src/Administrator.java:32:	Avoid variables with short names like e
+src/Administrator.java:32:	Parameter 'e' is not assigned and could be declared final
+src/AppGui.java:12:	Avoid unused imports such as 'javax.swing.JTextField'
+src/AppGui.java:15:	Avoid unused imports such as 'com.mysql.jdbc.PreparedStatement'
+src/AppGui.java:20:	All classes and interfaces must belong to a named package
+src/AppGui.java:21:	Avoid using redundant field initializer for 'result'
+src/AppGui.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AppGui.java:21:	Use explicit scoping instead of the default package private level
+src/AppGui.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/AppGui.java:27:	Parameter 'args' is not assigned and could be declared final
+src/AppGui.java:28:	To be compliant to J2EE, a webapp should not use any thread.
+src/AppGui.java:31:	Local variable 'window' could be declared final
+src/AppGui.java:32:	Potential violation of Law of Demeter (static property access)
+src/AppGui.java:33:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AppGui.java:34:	Avoid printStackTrace(); use a logger call instead.
+src/AppGui.java:56:	Local variable 'museumImage' could be declared final
+src/AppGui.java:57:	Potential violation of Law of Demeter (method chain calls)
+src/AppGui.java:58:	Local variable 'lblNewLabel' could be declared final
+src/AppGui.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/AppGui.java:60:	Potential violation of Law of Demeter (object not created locally)
+src/AppGui.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/AppGui.java:64:	Local variable 'ekthemaButton' could be declared final
+src/AppGui.java:66:	Avoid variables with short names like e
+src/AppGui.java:66:	Parameter 'e' is not assigned and could be declared final
+src/AppGui.java:67:	Avoid variables with short names like s1
+src/AppGui.java:67:	Local variable 's1' could be declared final
+src/AppGui.java:71:	Local variable 'aithousa' could be declared final
+src/AppGui.java:72:	Avoid variables with short names like s2
+src/AppGui.java:72:	Local variable 's2' could be declared final
+src/AppGui.java:76:	Avoid variables with short names like id
+src/AppGui.java:76:	Local variable 'id' could be declared final
+src/AppGui.java:77:	Local variable 'user' could be declared final
+src/AppGui.java:79:	Potential violation of Law of Demeter (object not created locally)
+src/AppGui.java:80:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/AppGui.java:82:	Avoid printStackTrace(); use a logger call instead.
+src/AppGui.java:82:	Potential violation of Law of Demeter (object not created locally)
+src/AppGui.java:84:	Local variable 'imfoFrame' could be declared final
+src/AppGui.java:91:	Local variable 'panel' could be declared final
+src/AppGui.java:95:	Local variable 'label' could be declared final
+src/AppGui.java:96:	Local variable 'image' could be declared final
+src/AppGui.java:100:	Local variable 'label2' could be declared final
+src/AppGui.java:105:	Local variable 'label3' could be declared final
+src/AppGui.java:114:	Avoid printStackTrace(); use a logger call instead.
+src/AppGui.java:114:	Potential violation of Law of Demeter (object not created locally)
+src/AppGui.java:120:	Potential violation of Law of Demeter (object not created locally)
+src/AppGui.java:121:	Potential violation of Law of Demeter (method chain calls)
+src/AppGui.java:124:	Local variable 'adminButton' could be declared final
+src/AppGui.java:126:	Avoid variables with short names like e
+src/AppGui.java:126:	Parameter 'e' is not assigned and could be declared final
+src/AppGui.java:127:	Local variable 'frame1' could be declared final
+src/AppGui.java:134:	Potential violation of Law of Demeter (method chain calls)
+src/Database.java:5:	All classes and interfaces must belong to a named package
+src/Database.java:6:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Database.java:6:	Parameter 'database' is not assigned and could be declared final
+src/Database.java:6:	Parameter 'host' is not assigned and could be declared final
+src/Database.java:6:	Parameter 'password' is not assigned and could be declared final
+src/Database.java:6:	Parameter 'user' is not assigned and could be declared final
+src/Database.java:6:	Rather than using a lot of String arguments, consider using a container object for those values.
+src/Database.java:7:	Found 'DD'-anomaly for variable 'url' (lines '7'-'10').
+src/Database.java:11:	Local variable 'con' could be declared final
+src/Database.java:12:	Consider simply returning the value vs storing it in local variable 'con'
+src/Database.java:14:	A catch statement that catches an exception only to rethrow it should be avoided.
+src/Database.java:20:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Database.java:20:	Parameter 'con' is not assigned and could be declared final
+src/Database.java:20:	Parameter 'sqlStatement' is not assigned and could be declared final
+src/Database.java:22:	Avoid variables with short names like cs
+src/Database.java:22:	Ensure that resources like this Statement object are closed after use
+src/Database.java:22:	Local variable 'cs' could be declared final
+src/Database.java:23:	Local variable 'cutstr' could be declared final
+src/Database.java:24:	Local variable 'sqlStCount' could be declared final
+src/Database.java:25:	Always check the return of one of the navigation method (next,previous,first,last) of a ResultSet.
+src/Database.java:25:	Ensure that resources like this ResultSet object are closed after use
+src/Database.java:25:	Local variable 'sqlrs' could be declared final
+src/Database.java:25:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:26:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:27:	Local variable 'countstr' could be declared final
+src/Database.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/Database.java:27:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:28:	Local variable 'countint' could be declared final
+src/Database.java:29:	Found 'DD'-anomaly for variable 'sqls' (lines '29'-'31').
+src/Database.java:30:	Avoid using Literals in Conditional Statements
+src/Database.java:31:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:35:	System.out.print is used
+src/Database.java:41:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Database.java:41:	Parameter 'con' is not assigned and could be declared final
+src/Database.java:41:	Parameter 'sqlStatement' is not assigned and could be declared final
+src/Database.java:43:	Found 'DD'-anomaly for variable 'bool' (lines '43'-'46').
+src/Database.java:44:	Avoid variables with short names like cs
+src/Database.java:44:	Ensure that resources like this Statement object are closed after use
+src/Database.java:44:	Local variable 'cs' could be declared final
+src/Database.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:47:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:50:	System.out.print is used
+src/Database.java:55:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/Database.java:55:	Parameter 'con' is not assigned and could be declared final
+src/Database.java:55:	Parameter 'sqlStatement' is not assigned and could be declared final
+src/Database.java:57:	Found 'DD'-anomaly for variable 'bool' (lines '57'-'60').
+src/Database.java:58:	Avoid variables with short names like cs
+src/Database.java:58:	Ensure that resources like this Statement object are closed after use
+src/Database.java:58:	Local variable 'cs' could be declared final
+src/Database.java:59:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:61:	Potential violation of Law of Demeter (object not created locally)
+src/Database.java:66:	System.out.print is used
+src/LoginFrame.java:17:	All classes and interfaces must belong to a named package
+src/LoginFrame.java:18:	Possible unsafe assignment to a non-final static field in a constructor.
+src/LoginFrame.java:18:	Use explicit scoping instead of the default package private level
+src/LoginFrame.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/LoginFrame.java:19:	Perhaps 'contentPane' could be replaced by a local variable.
+src/LoginFrame.java:19:	Private field 'contentPane' could be made final; it is only initialized in the declaration or constructor.
+src/LoginFrame.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/LoginFrame.java:20:	Private field 'textField' could be made final; it is only initialized in the declaration or constructor.
+src/LoginFrame.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/LoginFrame.java:21:	Private field 'passwordField' could be made final; it is only initialized in the declaration or constructor.
+src/LoginFrame.java:26:	It is a good practice to call super() in a constructor
+src/LoginFrame.java:34:	Local variable 'userLabel' could be declared final
+src/LoginFrame.java:38:	Local variable 'passLabel' could be declared final
+src/LoginFrame.java:52:	Local variable 'loginButton' could be declared final
+src/LoginFrame.java:54:	Avoid variables with short names like e
+src/LoginFrame.java:54:	Parameter 'e' is not assigned and could be declared final
+src/LoginFrame.java:56:	Local variable 'user' could be declared final
+src/LoginFrame.java:57:	Local variable 'pass' could be declared final
+src/LoginFrame.java:58:	Local variable 'sys' could be declared final
+src/LoginFrame.java:60:	Potential violation of Law of Demeter (object not created locally)
+src/LoginFrame.java:61:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/LoginFrame.java:63:	Avoid printStackTrace(); use a logger call instead.
+src/LoginFrame.java:63:	Potential violation of Law of Demeter (object not created locally)
+src/LoginFrame.java:65:	System.out.print is used
+src/LoginFrame.java:67:	System.out.print is used
+src/LoginFrame.java:69:	Avoid unnecessary comparisons in boolean expressions
+src/LoginFrame.java:69:	Avoid using Literals in Conditional Statements
+src/LoginFrame.java:71:	Local variable 'frame2' could be declared final
+src/MySystem.java:3:	All classes and interfaces must belong to a named package
+src/MySystem.java:4:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/MySystem.java:4:	Parameter 'password' is not assigned and could be declared final
+src/MySystem.java:4:	Parameter 'username' is not assigned and could be declared final
+src/MySystem.java:5:	Avoid variables with short names like db
+src/MySystem.java:5:	Local variable 'db' could be declared final
+src/MySystem.java:6:	Local variable 'table' could be declared final
+src/MySystem.java:7:	Found 'DD'-anomaly for variable 'rslt' (lines '7'-'16').
+src/MySystem.java:8:	Ensure that resources like this ResultSet object are closed after use
+src/MySystem.java:10:	Ensure that resources like this Connection object are closed after use
+src/MySystem.java:10:	Local variable 'newcon' could be declared final
+src/MySystem.java:10:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:10:	The String literal "localhost" appears 4 times in this file; the first occurrence is on line 10
+src/MySystem.java:10:	The String literal "root" appears 4 times in this file; the first occurrence is on line 10
+src/MySystem.java:10:	The String literal "testdb" appears 4 times in this file; the first occurrence is on line 10
+src/MySystem.java:11:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:14:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:16:	Found 'DD'-anomaly for variable 'rslt' (lines '16'-'16').
+src/MySystem.java:16:	Potential violation of Law of Demeter (method chain calls)
+src/MySystem.java:16:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:19:	System.out.print is used
+src/MySystem.java:21:	Avoid using if...else statements without curly braces
+src/MySystem.java:23:	Avoid using if...else statements without curly braces
+src/MySystem.java:28:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/MySystem.java:28:	Avoid variables with short names like id
+src/MySystem.java:28:	Parameter 'id' is not assigned and could be declared final
+src/MySystem.java:29:	Found 'DD'-anomaly for variable 'bool' (lines '29'-'33').
+src/MySystem.java:30:	Avoid variables with short names like db
+src/MySystem.java:30:	Local variable 'db' could be declared final
+src/MySystem.java:31:	Ensure that resources like this Connection object are closed after use
+src/MySystem.java:31:	Local variable 'newcon' could be declared final
+src/MySystem.java:31:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:32:	Local variable 'table' could be declared final
+src/MySystem.java:33:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:37:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/MySystem.java:37:	Avoid variables with short names like id
+src/MySystem.java:37:	Parameter 'aithousa' is not assigned and could be declared final
+src/MySystem.java:37:	Parameter 'id' is not assigned and could be declared final
+src/MySystem.java:37:	Parameter 'image' is not assigned and could be declared final
+src/MySystem.java:37:	Parameter 'onoma' is not assigned and could be declared final
+src/MySystem.java:37:	Parameter 'plirofories' is not assigned and could be declared final
+src/MySystem.java:38:	Found 'DD'-anomaly for variable 'bool' (lines '38'-'42').
+src/MySystem.java:39:	Avoid variables with short names like db
+src/MySystem.java:39:	Local variable 'db' could be declared final
+src/MySystem.java:40:	Local variable 'table' could be declared final
+src/MySystem.java:41:	Ensure that resources like this Connection object are closed after use
+src/MySystem.java:41:	Local variable 'newcon' could be declared final
+src/MySystem.java:41:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:42:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:46:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/MySystem.java:46:	Avoid variables with short names like id
+src/MySystem.java:46:	Parameter 'aithousa' is not assigned and could be declared final
+src/MySystem.java:46:	Parameter 'id' is not assigned and could be declared final
+src/MySystem.java:47:	Avoid variables with short names like db
+src/MySystem.java:47:	Local variable 'db' could be declared final
+src/MySystem.java:48:	Local variable 'table' could be declared final
+src/MySystem.java:49:	Found 'DD'-anomaly for variable 'title' (lines '49'-'51').
+src/MySystem.java:50:	Ensure that resources like this Connection object are closed after use
+src/MySystem.java:50:	Local variable 'newcon' could be declared final
+src/MySystem.java:50:	Potential violation of Law of Demeter (object not created locally)
+src/MySystem.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/User.java:4:	A Classname should have a minimum of five characters
+src/User.java:4:	All classes and interfaces must belong to a named package
+src/User.java:5:	A method/constructor shouldnt explicitly throw java.lang.Exception
+src/User.java:5:	Avoid variables with short names like id
+src/User.java:5:	Parameter 'aithousa' is not assigned and could be declared final
+src/User.java:5:	Parameter 'id' is not assigned and could be declared final
+src/User.java:7:	Local variable 'sys' could be declared final
+src/User.java:8:	Potential violation of Law of Demeter (object not created locally)
+test/AdminGuiTest.java:6:	All classes and interfaces must belong to a named package
+test/AdminGuiTest.java:9:	JUnit tests should include assert() or fail()
+test/AdminGuiTest.java:10:	Avoid unused local variables such as 'admingui'.
+test/AdminGuiTest.java:10:	Found 'DU'-anomaly for variable 'admingui' (lines '10'-'11').
+test/AdminGuiTest.java:10:	Local variable 'admingui' could be declared final
+test/AdministratorTest.java:9:	All classes and interfaces must belong to a named package
+test/AdministratorTest.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/AdministratorTest.java:11:	Use explicit scoping instead of the default package private level
+test/AdministratorTest.java:16:	Avoid unused local variables such as 'result'.
+test/AdministratorTest.java:16:	Ensure that resources like this ResultSet object are closed after use
+test/AdministratorTest.java:16:	Found 'DU'-anomaly for variable 'result' (lines '16'-'18').
+test/AdministratorTest.java:16:	Local variable 'result' could be declared final
+test/AdministratorTest.java:17:	JUnit assertions should include a message
+test/AdministratorTest.java:22:	Local variable 'randomgen' could be declared final
+test/AdministratorTest.java:23:	Local variable 'randomint' could be declared final
+test/AdministratorTest.java:24:	JUnit assertions should include a message
+test/AppGuiTest.java:6:	All classes and interfaces must belong to a named package
+test/AppGuiTest.java:9:	JUnit tests should include assert() or fail()
+test/AppGuiTest.java:10:	Avoid unused local variables such as 'window'.
+test/AppGuiTest.java:10:	Found 'DU'-anomaly for variable 'window' (lines '10'-'11').
+test/AppGuiTest.java:10:	Local variable 'window' could be declared final
+test/DatabaseTest.java:8:	All classes and interfaces must belong to a named package
+test/DatabaseTest.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/DatabaseTest.java:10:	Use explicit scoping instead of the default package private level
+test/DatabaseTest.java:14:	JUnit assertions should include a message
+test/DatabaseTest.java:19:	Local variable 'statement' could be declared final
+test/DatabaseTest.java:20:	JUnit assertions should include a message
+test/DatabaseTest.java:24:	JUnit tests should include assert() or fail()
+test/DatabaseTest.java:30:	Local variable 'randomgen' could be declared final
+test/DatabaseTest.java:31:	Local variable 'randomint' could be declared final
+test/DatabaseTest.java:32:	Local variable 'statement' could be declared final
+test/DatabaseTest.java:33:	JUnit assertions should include a message
+test/LoginFrameTest.java:6:	All classes and interfaces must belong to a named package
+test/LoginFrameTest.java:9:	JUnit tests should include assert() or fail()
+test/LoginFrameTest.java:11:	Avoid unused local variables such as 'login'.
+test/LoginFrameTest.java:11:	Found 'DU'-anomaly for variable 'login' (lines '11'-'13').
+test/LoginFrameTest.java:11:	Local variable 'login' could be declared final
+test/MySystemTest.java:9:	All classes and interfaces must belong to a named package
+test/MySystemTest.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/MySystemTest.java:11:	Use explicit scoping instead of the default package private level
+test/MySystemTest.java:15:	JUnit assertions should include a message
+test/MySystemTest.java:19:	Document empty method
+test/MySystemTest.java:19:	JUnit tests should include assert() or fail()
+test/MySystemTest.java:25:	Local variable 'randomgen' could be declared final
+test/MySystemTest.java:26:	Local variable 'randomint' could be declared final
+test/MySystemTest.java:27:	JUnit assertions should include a message
+test/MySystemTest.java:32:	Avoid unused local variables such as 'result'.
+test/MySystemTest.java:32:	Ensure that resources like this ResultSet object are closed after use
+test/MySystemTest.java:32:	Found 'DU'-anomaly for variable 'result' (lines '32'-'34').
+test/MySystemTest.java:32:	Local variable 'result' could be declared final
+test/MySystemTest.java:33:	JUnit assertions should include a message
+test/UserTest.java:8:	All classes and interfaces must belong to a named package
+test/UserTest.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+test/UserTest.java:10:	Use explicit scoping instead of the default package private level
+test/UserTest.java:14:	Avoid unused local variables such as 'result'.
+test/UserTest.java:14:	Ensure that resources like this ResultSet object are closed after use
+test/UserTest.java:14:	Found 'DU'-anomaly for variable 'result' (lines '14'-'16').
+test/UserTest.java:14:	Local variable 'result' could be declared final
+test/UserTest.java:15:	JUnit assertions should include a message
